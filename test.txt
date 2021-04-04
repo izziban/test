@@ -1,3 +1,10 @@
 [diff] tool = vscode [difftool "vscode"] cmd = code --wait --diff $LOCAL $REMOTE
 
+git diff 
+※ 옵션 : --staged
+
+ - 마지막 커밋과 staging area의 차이 확인
+
+
+
 출처: https://goddaehee.tistory.com/217?category=381481 [갓대희의 작은공간]
